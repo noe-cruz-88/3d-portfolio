@@ -1,7 +1,7 @@
 import {
+    frontend,
+    custom,
     mobile,
-    backend,
-    creator,
     web,
     javascript,
     typescript,
@@ -47,7 +47,11 @@ const services = [
     },
     {
         title: 'Front-End Developer',
-        icon: mobile,
+        icon: frontend,
+    },
+    {
+        title: 'Custom Web Applications',
+        icon: custom,
     },
     {
         title: 'Mobile Responsive Design',
