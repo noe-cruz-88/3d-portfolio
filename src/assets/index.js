@@ -1,6 +1,6 @@
 import logo from './logo.svg'
 import custom from './custom.png'
-import mobile from './mobile.png'
+import design from './design.png'
 import frontend from './frontend.png'
 import web from './web.png'
 import github from './github.png'
@@ -33,7 +33,7 @@ import tripguide from './tripguide.png'
 export {
     logo,
     custom,
-    mobile,
+    design,
     frontend,
     web,
     github,

@@ -1,7 +1,7 @@
 import {
     frontend,
     custom,
-    mobile,
+    design,
     web,
     javascript,
     typescript,
@@ -54,8 +54,8 @@ const services = [
         icon: custom,
     },
     {
-        title: 'Mobile Responsive Design',
-        icon: mobile,
+        title: 'Responsive Design',
+        icon: design,
     },
 ]
 
