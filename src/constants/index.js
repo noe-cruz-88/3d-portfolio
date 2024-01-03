@@ -1,7 +1,7 @@
 import {
-    frontend,
-    custom,
-    design,
+    mobile,
+    backend,
+    creator,
     web,
     javascript,
     typescript,
@@ -46,16 +46,16 @@ const services = [
         icon: web,
     },
     {
-        title: 'Front-End Developer',
-        icon: frontend,
+        title: 'React Native Developer',
+        icon: mobile,
     },
     {
-        title: 'Custom Web Applications',
-        icon: custom,
+        title: 'Backend Developer',
+        icon: backend,
     },
     {
-        title: 'Responsive Design',
-        icon: design,
+        title: 'Content Creator',
+        icon: creator,
     },
 ]
 
@@ -73,12 +73,28 @@ const technologies = [
         icon: javascript,
     },
     {
+        name: 'TypeScript',
+        icon: typescript,
+    },
+    {
         name: 'React JS',
         icon: reactjs,
     },
     {
+        name: 'Redux Toolkit',
+        icon: redux,
+    },
+    {
         name: 'Tailwind CSS',
         icon: tailwind,
+    },
+    {
+        name: 'Node JS',
+        icon: nodejs,
+    },
+    {
+        name: 'MongoDB',
+        icon: mongodb,
     },
     {
         name: 'Three JS',
@@ -91,6 +107,10 @@ const technologies = [
     {
         name: 'figma',
         icon: figma,
+    },
+    {
+        name: 'docker',
+        icon: docker,
     },
 ]
 
